@@ -1704,6 +1704,18 @@ JetSeT is an open source C/Python framework to reproduce radiative and accelerat
 
 https://github.com/andreatramacere/jetset
 
+### AM³
+
+AM³ is a software package for simulating lepto-hadronic interactions in astrophysical environments. It computes the time-dependent energy spectra of particles such as electrons, protons, neutrons, photons, neutrinos, and secondary particles (pions and muons) in a magnetic field.
+
+https://gitlab.desy.de/am3/am3
+
+### Naima
+
+Naima is a Astropy affiliated package for computation of non-thermal radiation from relativistic particle populations. 
+
+https://github.com/zblz/naima
+
 ***
 
 ## Multi-Messenger Analysis
